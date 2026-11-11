@@ -1,0 +1,4 @@
+interface:
+  display_name: "抖音视频图文笔记"
+  short_description: "把抖音视频提炼成简单清晰的中文笔记，按需配图，详细信息与证据另存文档"
+  default_prompt: "使用 $douyin-video-notes，提炼这个抖音视频的核心信息，写成简单易懂的中文笔记，详细信息另存文档。"
